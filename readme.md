@@ -6,7 +6,7 @@ tags:
   - project
 title: Web app za izradu rasporeda rada
 type: project
-URL: 
+URL: https://github.com/MorphZG/upravljanje-radom-u-smjenama
 ---
 
 # Web app za izradu rasporeda rada
